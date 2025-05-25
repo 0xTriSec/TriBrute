@@ -31,12 +31,12 @@ Công cụ hoạt động bằng cách tự động nhập từng mật khẩu t
 
 # Cấu trúc thư mục | Project Files
 
- Tệp tin / File Name         Mô tả / Description                        
- TriBrute.py                             Mã nguồn chính / Main Python script       
- award.zip                               File ZIP có mật khẩu để kiểm thử / Test ZIP file 
- 10-million-password-list-top-10000.txt  Danh sách mật khẩu mẫu / Password wordlist 
- requirements.txt                        Các thư viện cần cài đặt / Required packages 
- .gitignore                              Loại trừ tệp không cần thiết / Git ignore rules 
+| Tệp tin / File Name                    | Mô tả / Description                       |
+|----------------------------------------|-------------------------------------------|
+| TriBrute.py                            | Mã nguồn chính / Main Python script       |
+| award.zip                              | File ZIP có mật khẩu để kiểm thử / Test ZIP file |
+| 10-million-password-list-top-10000.txt | Danh sách mật khẩu mẫu / Password wordlist |
+| requirements.txt                       | Các thư viện cần cài đặt / Required packages |
 
 ---
 
