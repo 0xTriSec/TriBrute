@@ -46,7 +46,7 @@ Công cụ hoạt động bằng cách tự động nhập từng mật khẩu t
 Step 1: Clone the project
 
 ```bash
-git clone https://github.com/triidev07/TriBrute.git
+git clone https://github.com/0xTriSec/TriBrute.git
 cd TriBrute
 ===
 *Bước 2: Cài đặt thư viện cần thiết
